@@ -43,17 +43,17 @@ Offers increasingly difficult challenges to promote focus and problem-solving sk
 
 ## Screenshots
 
-<img src="./assets/anh1.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh2.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh3.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh4.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh5.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh6.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh7.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh8.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh9.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh10.jpg" width="30%" alt='screen1'>
-<img src="./assets/anh11.jpg" width="30%" alt='screen1'>
+<img src="./assets/anh1.jpg" width="200" alt='screen1'>
+<img src="./assets/anh2.jpg" width="200" alt='screen1'>
+<img src="./assets/anh3.jpg" width="200" alt='screen1'>
+<img src="./assets/anh4.jpg" width="200" alt='screen1'>
+<img src="./assets/anh5.jpg" width="200" alt='screen1'>
+<img src="./assets/anh6.jpg" width="200" alt='screen1'>
+<img src="./assets/anh7.jpg" width="200" alt='screen1'>
+<img src="./assets/anh8.jpg" width="200" alt='screen1'>
+<img src="./assets/anh9.jpg" width="200" alt='screen1'>
+<img src="./assets/anh10.jpg" width="200" alt='screen1'>
+<img src="./assets/anh11.jpg" width="200" alt='screen1'>
 
 ## Getting Started
 
