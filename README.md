@@ -42,6 +42,7 @@ Creative image puzzle game to reinforce the user's mental image of the universe.
 Offers increasingly difficult challenges to promote focus and problem-solving skills.
 
 ## Screenshots
+</div>
 
 <img src="./assets/anh1.jpg" width="200" alt='screen1'>
 <img src="./assets/anh2.jpg" width="200" alt='screen1'>
@@ -54,6 +55,7 @@ Offers increasingly difficult challenges to promote focus and problem-solving sk
 <img src="./assets/anh9.jpg" width="200" alt='screen1'>
 <img src="./assets/anh10.jpg" width="200" alt='screen1'>
 <img src="./assets/anh11.jpg" width="200" alt='screen1'>
+</div>
 
 ## Getting Started
 
